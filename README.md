@@ -1,37 +1,3 @@
-.knight-rider-container {
-    width: 300px;
-    height: 50px;
-    background-color: black;
-    margin: 50px;
-    border-radius: 25px;
-    overflow: hidden;
-    position: relative;
-}
-
-.knight-rider-light {
-    width: 50px;
-    height: 50px;
-    background-color: red;
-    border-radius: 50%;
-    position: absolute;
-    animation: moveLight 2s linear infinite;
-}
-
-@keyframes moveLight {
-    0%, 100% {
-        left: 0;
-    }
-    50% {
-        left: calc(100% - 50px); /* Adjust the width of the light */
-    }
-}
-
-
-
-
-<div class="knight-rider-container">
-    <div class="knight-rider-light"></div>
-</div>
 <h1 align="center">Hi 👋, I'm Maleesha Udan Aththanayaka</h1>
 <h3 align="center">IT student from Sri Lanka with a love for tech and a talent for programming. Java, C++, C#, PHP, MATLAB, C, and more, I turn ideas into code</h3>
 
