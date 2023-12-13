@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Maleesha Udan Aththanayaka</h1>
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <h3 align="center">IT student from Sri Lanka with a love for tech and a talent for programming. Java, C++, C#, PHP, MATLAB, C, and more, I turn ideas into code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maleeshaudan&label=Profile%20views&color=0e75b6&style=flat" alt="maleeshaudan" /> </p>
